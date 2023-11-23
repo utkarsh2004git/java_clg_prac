@@ -1,0 +1,10 @@
+Iphone_11,Apple,60000,50
+Iphone_12,Apple,70000,29
+Iphone_13,Apple,80000,32
+Iphone_14,Apple,90000,36
+Realme_3,Realme,32000,58
+Realme_3,Realme,69000,69
+Redmi_1,Redmi,23000,16
+Redmi_2,Redmi,45000,50
+Redmi_3,Redmi,84000,50
+Redmi_4,AAA,160000,60

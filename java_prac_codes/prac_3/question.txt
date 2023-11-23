@@ -1,0 +1,11 @@
+A. Create a class Time with the data members as hours and minutes. 
+Add Functionality to add and subtract 2 time objects.
+Test the time class is main(). 
+B. "GreatClock" (A scientific research company) wants advanced time 
+objects which will also provide functionalities of addition and subtraction 
+of seconds and milliseconds along with hours and minutes. 
+How will you add this feature without changing the Time Class? 
+C. Create a class TimeZone which will add functionality to convert the 
+time from one time zone to another time zone. 
+Note: Class Time zone uses the Time Object and uses the Add and 
+Subtract methods of Time Class.
